@@ -4,25 +4,25 @@ DNA/RNA Sequence Analyzer is a C++ console-based bioinformatics tool that analyz
 
 ---
 
-## 🔬 Features
-- Supports both **DNA and RNA** sequences
-- Automatic **RNA detection and conversion to DNA**
-- **GC content** calculation with base count
-- ORF detection in **6 reading frames**
-- **FASTA file** input support
-- Console output or **save results to a text file**
+## Features
+- Supports both DNA and RNA sequences
+- Automatic RNA detection and conversion to DNA
+- GC content calculation with base count
+- ORF detection in six reading frames
+- FASTA file input support
+- Console output or save results to a text file
 - Object-Oriented Programming (OOP) based design
 
 ---
 
-## 🧬 Input Options
+## Input Options
 1. Direct sequence input via console  
 2. FASTA file input  
 
 ---
 
-## 📊 Output Details
-- Detected sequence type (DNA/RNA)
+## Output Details
+- Detected sequence type (DNA or RNA)
 - Base composition (A, T/U, G, C)
 - GC percentage
 - ORF information:
@@ -33,7 +33,7 @@ DNA/RNA Sequence Analyzer is a C++ console-based bioinformatics tool that analyz
 
 ---
 
-## ⚙️ How to Compile and Run
+## How to Compile and Run
 
 ### Compile
 ```bash
